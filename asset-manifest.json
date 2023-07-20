@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/infintywebdev/static/css/main.8f302bed.css",
+    "main.js": "/infintywebdev/static/js/main.f2ddaabb.js",
+    "static/media/ava-1.jpg": "/infintywebdev/static/media/ava-1.c185d7723fe40ec46830.jpg",
+    "static/media/ava-3.jpg": "/infintywebdev/static/media/ava-3.1442075049ece43143f2.jpg",
+    "static/media/about.jpg": "/infintywebdev/static/media/about.56e92b20e762df2fa5de.jpg",
+    "static/media/ava-2.jpg": "/infintywebdev/static/media/ava-2.11e918c656d0c7851624.jpg",
+    "static/media/ava-4.jpg": "/infintywebdev/static/media/ava-4.5f15524f7b3f80a834df.jpg",
+    "static/media/p-7.png": "/infintywebdev/static/media/p-7.3cfd39e3c93992a71208.png",
+    "static/media/pricing.jpg": "/infintywebdev/static/media/pricing.4552ccf3b91e93029513.jpg",
+    "static/media/services.jpg": "/infintywebdev/static/media/services.13be7fde05782bd5e2e8.jpg",
+    "static/media/banner.png": "/infintywebdev/static/media/banner.1a3c8a0a448e8e24f6a0.png",
+    "static/media/p-6.png": "/infintywebdev/static/media/p-6.1a5720889994f55b633c.png",
+    "static/media/bmw-offer.png": "/infintywebdev/static/media/bmw-offer.ecfb9ac1bf7b5ef615a6.png",
+    "static/media/nissan-offer.png": "/infintywebdev/static/media/nissan-offer.6eddc86310b7cac538ae.png",
+    "static/media/toyota-offer-2.png": "/infintywebdev/static/media/toyota-offer-2.861de085d1c782df9e9d.png",
+    "static/media/offer-toyota.png": "/infintywebdev/static/media/offer-toyota.4b2435e447a7832d9f4a.png",
+    "static/media/mercedes-offer.png": "/infintywebdev/static/media/mercedes-offer.d177a4fe9e2002ddb24d.png",
+    "static/media/slick.svg": "/infintywebdev/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/infintywebdev/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/infintywebdev/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/infintywebdev/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/infintywebdev/index.html",
+    "main.8f302bed.css.map": "/infintywebdev/static/css/main.8f302bed.css.map",
+    "main.f2ddaabb.js.map": "/infintywebdev/static/js/main.f2ddaabb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f302bed.css",
+    "static/js/main.f2ddaabb.js"
+  ]
+}
